@@ -1,0 +1,5 @@
+baseURL = 'https://stawarczyk.pl/'
+languageCode = 'pl-pl'
+title = 'Blog stawarczyk.pl'
+theme = 'beautifulhugo'
+defaultContentLanguage = 'pl'
