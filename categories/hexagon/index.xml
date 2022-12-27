@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>hexagon on Blog stawarczyk.pl</title>
-    <link>https://stawarczyk.pl/categories/hexagon/</link>
+    <link>https://g-stawarczyk.github.io/categories/hexagon/</link>
     <description>Recent content in hexagon on Blog stawarczyk.pl</description>
     <image>
-      <url>https://stawarczyk.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://stawarczyk.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://g-stawarczyk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://g-stawarczyk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
-    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stawarczyk.pl/categories/hexagon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://g-stawarczyk.github.io/categories/hexagon/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architektura Heksagonalna</title>
-      <link>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</link>
+      <link>https://g-stawarczyk.github.io/2021/01/architektura-heksagonalna/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</guid>
+      <guid>https://g-stawarczyk.github.io/2021/01/architektura-heksagonalna/</guid>
       <description>Cześć. W dzisiejszym artykule chciałbym poruszyć temat architektury heksagonalnej znanej również jako architektura Portów i Adapterów (ang. Ports &amp;amp; Adapters). Mam nadzieję, że uda mi się przedstawić Tobie w prosty sposób jak zaimplementować architekturę heksagonalną w Twoim projekcie. Ale zacznijmy od początku.
 Czym jest hexagonal architecture? Architektura heksagonalna to wzorzec architektoniczny, który pozwala na implementację logiki biznesowej, całkowicie odseparowanej od zależności. Intencją architektury heksagonalnej jest możliwość wykorzystania napisanej aplikacji przez dowolne wejście (np.</description>
     </item>

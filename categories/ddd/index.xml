@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DDD on Blog stawarczyk.pl</title>
-    <link>https://stawarczyk.pl/categories/ddd/</link>
+    <link>https://g-stawarczyk.github.io/categories/ddd/</link>
     <description>Recent content in DDD on Blog stawarczyk.pl</description>
     <image>
-      <url>https://stawarczyk.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://stawarczyk.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://g-stawarczyk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://g-stawarczyk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
-    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stawarczyk.pl/categories/ddd/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://g-stawarczyk.github.io/categories/ddd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architektura Heksagonalna</title>
-      <link>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</link>
+      <link>https://g-stawarczyk.github.io/2021/01/architektura-heksagonalna/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</guid>
+      <guid>https://g-stawarczyk.github.io/2021/01/architektura-heksagonalna/</guid>
       <description>Cześć. W dzisiejszym artykule chciałbym poruszyć temat architektury heksagonalnej znanej również jako architektura Portów i Adapterów (ang. Ports &amp;amp; Adapters). Mam nadzieję, że uda mi się przedstawić Tobie w prosty sposób jak zaimplementować architekturę heksagonalną w Twoim projekcie. Ale zacznijmy od początku.
 Czym jest hexagonal architecture? Architektura heksagonalna to wzorzec architektoniczny, który pozwala na implementację logiki biznesowej, całkowicie odseparowanej od zależności. Intencją architektury heksagonalnej jest możliwość wykorzystania napisanej aplikacji przez dowolne wejście (np.</description>
     </item>
     
     <item>
       <title>Value Object – Podstawowy element Domain Driven Design</title>
-      <link>https://stawarczyk.pl/2020/09/value-object-podstawowy-element-domain-driven-design/</link>
+      <link>https://g-stawarczyk.github.io/2020/09/value-object-podstawowy-element-domain-driven-design/</link>
       <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://stawarczyk.pl/2020/09/value-object-podstawowy-element-domain-driven-design/</guid>
+      <guid>https://g-stawarczyk.github.io/2020/09/value-object-podstawowy-element-domain-driven-design/</guid>
       <description>Podczas programowania obiektowego bardzo często wykorzystujemy typy primitywne do przedstawienia jakiejś wartości. Przy tym bardzo często musimy zmierzyć się z przekazywaniem oraz modyfikacją tych wartości. Idąc dalej, chcemy mieć przecież poprawne dane, więc sprawdzamy ich poprawność dodając dodatkową logikę walidującą. A co w sytuacji, gdy daną wartość, która reprezentuje jakiś koncept, chcemy wykorzystać w więcej niż jednym miejscu? Duplikujemy logikę sprawdzania ich poprawności? Wybieramy specjalne miejsce aby utworzyć klasę walidacji, a może duplikujemy kod?</description>
     </item>
     
     <item>
       <title>DDD – Domain Driven Design</title>
-      <link>https://stawarczyk.pl/2020/07/ddd-domain-driven-design/</link>
+      <link>https://g-stawarczyk.github.io/2020/07/ddd-domain-driven-design/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://stawarczyk.pl/2020/07/ddd-domain-driven-design/</guid>
+      <guid>https://g-stawarczyk.github.io/2020/07/ddd-domain-driven-design/</guid>
       <description>Cześć. Jeżeli tutaj trafiłeś, to znaczy, że szukasz informacji na temat DDD – Domain Driven Design. Chciałbym Cię zaprosić do serii artykułów poświęconych metodologii DDD. Postaram się Tobie w zrozumiały sposób przybliżyć czym jest DDD oraz kiedy warto stosować to podejście.
 W trakcie całej serii pojawią się przykłady w języku PHP, które dopełnią całość, a Tobie czytelniku, dostarczą praktycznej wiedzy w zakresie wykorzystania Domain Driven Design.
 DDD – co to takiego?</description>

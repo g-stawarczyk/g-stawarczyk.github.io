@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stawarczyk.pl/en/</loc>
+    <loc>https://g-stawarczyk.github.io/en/</loc>
     <lastmod>2021-09-07T23:33:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://stawarczyk.pl/"
+                href="https://g-stawarczyk.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://stawarczyk.pl/en/"
+                href="https://g-stawarczyk.github.io/en/"
                 />
   </url><url>
-    <loc>https://stawarczyk.pl/en/categories/</loc>
+    <loc>https://g-stawarczyk.github.io/en/categories/</loc>
     <lastmod>2021-09-07T23:33:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://stawarczyk.pl/categories/"
+                href="https://g-stawarczyk.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://stawarczyk.pl/en/categories/"
+                href="https://g-stawarczyk.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://stawarczyk.pl/en/2021/09/cqrs-its-simple/</loc>
+    <loc>https://g-stawarczyk.github.io/en/2021/09/cqrs-its-simple/</loc>
     <lastmod>2021-09-07T23:33:05+02:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/en/categories/development/</loc>
+    <loc>https://g-stawarczyk.github.io/en/categories/development/</loc>
     <lastmod>2021-09-07T23:33:05+02:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/en/posts/</loc>
+    <loc>https://g-stawarczyk.github.io/en/posts/</loc>
     <lastmod>2021-09-07T23:33:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://stawarczyk.pl/posts/"
+                href="https://g-stawarczyk.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://stawarczyk.pl/en/posts/"
+                href="https://g-stawarczyk.github.io/en/posts/"
                 />
   </url><url>
-    <loc>https://stawarczyk.pl/en/tags/</loc>
+    <loc>https://g-stawarczyk.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://stawarczyk.pl/tags/"
+                href="https://g-stawarczyk.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://stawarczyk.pl/en/tags/"
+                href="https://g-stawarczyk.github.io/en/tags/"
                 />
   </url>
 </urlset>
