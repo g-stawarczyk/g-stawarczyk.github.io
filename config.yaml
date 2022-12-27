@@ -1,11 +1,11 @@
-baseURL: 'https://stawarczyk.pl/'
+baseURL: 'https://g-stawarczyk.github.io'
 languageCode: pl-pl
 title: Blog stawarczyk.pl
 theme: PaperMod
 defaultContentLanguage: pl
 paginate: 10
 enableRobotsTXT: true
-buildDrafts: true
+buildDrafts: false
 buildFuture: true
 buildExpired: true
 taxonomies:
