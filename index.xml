@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog stawarczyk.pl</title>
+    <link>https://stawarczyk.pl/</link>
+    <description>Recent content on Blog stawarczyk.pl</description>
+    <image>
+      <url>https://stawarczyk.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://stawarczyk.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Wed, 20 Jul 2022 23:59:37 +0200</lastBuildDate><atom:link href="https://stawarczyk.pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uważaj na swój Cache</title>
+      <link>https://stawarczyk.pl/2022/07/uwa%C5%BCaj-na-sw%C3%B3j-cache/</link>
+      <pubDate>Wed, 20 Jul 2022 23:59:37 +0200</pubDate>
+      
+      <guid>https://stawarczyk.pl/2022/07/uwa%C5%BCaj-na-sw%C3%B3j-cache/</guid>
+      <description>Wykorzystanie pamięci podręcznej to jedna z podstawowych metod optymalizacji aplikacji. Jednak czy wiesz kiedy, gdzie i jak go używać cache?
+Case #1 Memento</description>
+    </item>
+    
+    <item>
+      <title>CQRS - to proste!</title>
+      <link>https://stawarczyk.pl/2021/09/cqrs-to-proste/</link>
+      <pubDate>Tue, 07 Sep 2021 23:33:05 +0200</pubDate>
+      
+      <guid>https://stawarczyk.pl/2021/09/cqrs-to-proste/</guid>
+      <description>CQRS jest prosty CQRS (Command Query Responsibility Segregation) to ewolucja CQS (ang. Command Query Separation ). CQS charakteryzuje się rozdzieleniem klasy na metody zapisujące oraz odczytujące. Metody zapisujące nazywamy Command, a odczytujące Query. Command zmieniają stan, zmieniają dane, ale nie zwracają żadnych danych. Query, w przeciwieństwie do metod zapisujących, odczytują dane bez ich modyfikacji. Ilekroć wywołamy metodą odczytu, zawsze otrzymamy takie same dane w odpowiedzi.
+Jak jest róznica między CQS a CQRS?</description>
+    </item>
+    
+    <item>
+      <title>Architektura Heksagonalna</title>
+      <link>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</guid>
+      <description>Cześć. W dzisiejszym artykule chciałbym poruszyć temat architektury heksagonalnej znanej również jako architektura Portów i Adapterów (ang. Ports &amp;amp; Adapters). Mam nadzieję, że uda mi się przedstawić Tobie w prosty sposób jak zaimplementować architekturę heksagonalną w Twoim projekcie. Ale zacznijmy od początku.
+Czym jest hexagonal architecture? Architektura heksagonalna to wzorzec architektoniczny, który pozwala na implementację logiki biznesowej, całkowicie odseparowanej od zależności. Intencją architektury heksagonalnej jest możliwość wykorzystania napisanej aplikacji przez dowolne wejście (np.</description>
+    </item>
+    
+    <item>
+      <title>Persystencja Value Object w PHP</title>
+      <link>https://stawarczyk.pl/2020/12/persystencja-value-object-w-php/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2020/12/persystencja-value-object-w-php/</guid>
+      <description>Cześć. W tym artykule skupimy się na zapisywaniu Value Object’ów w bazie danych. Jeżeli nie wiesz czym jest Obiekt Wartości, to zapraszam Cię do mojego poprzedniego artykułu: Value Object – Podstawowy element Domain Driven Design. Tymczasem przejdźmy do meritum.
+Na początek należy uzupełnić poprzedni artykuł, iż Value Object należy do Encji i nigdy nie jest zapisywany w bazie danych samemu sobie. Zazwyczaj zapisujemy je poprzez Agregat, o którym napiszę w kolejnym artykule.</description>
+    </item>
+    
+    <item>
+      <title>Value Object – Podstawowy element Domain Driven Design</title>
+      <link>https://stawarczyk.pl/2020/09/value-object-podstawowy-element-domain-driven-design/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2020/09/value-object-podstawowy-element-domain-driven-design/</guid>
+      <description>Podczas programowania obiektowego bardzo często wykorzystujemy typy primitywne do przedstawienia jakiejś wartości. Przy tym bardzo często musimy zmierzyć się z przekazywaniem oraz modyfikacją tych wartości. Idąc dalej, chcemy mieć przecież poprawne dane, więc sprawdzamy ich poprawność dodając dodatkową logikę walidującą. A co w sytuacji, gdy daną wartość, która reprezentuje jakiś koncept, chcemy wykorzystać w więcej niż jednym miejscu? Duplikujemy logikę sprawdzania ich poprawności? Wybieramy specjalne miejsce aby utworzyć klasę walidacji, a może duplikujemy kod?</description>
+    </item>
+    
+    <item>
+      <title>DDD – Domain Driven Design</title>
+      <link>https://stawarczyk.pl/2020/07/ddd-domain-driven-design/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2020/07/ddd-domain-driven-design/</guid>
+      <description>Cześć. Jeżeli tutaj trafiłeś, to znaczy, że szukasz informacji na temat DDD – Domain Driven Design. Chciałbym Cię zaprosić do serii artykułów poświęconych metodologii DDD. Postaram się Tobie w zrozumiały sposób przybliżyć czym jest DDD oraz kiedy warto stosować to podejście.
+W trakcie całej serii pojawią się przykłady w języku PHP, które dopełnią całość, a Tobie czytelniku, dostarczą praktycznej wiedzy w zakresie wykorzystania Domain Driven Design.
+DDD – co to takiego?</description>
+    </item>
+    
+    <item>
+      <title>Composer 2.0 – sprawdźmy jak działa nowy menadżer paczek</title>
+      <link>https://stawarczyk.pl/2020/06/composer-2.0-sprawd%C5%BAmy-jak-dzia%C5%82a-nowy-menad%C5%BCer-paczek/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2020/06/composer-2.0-sprawd%C5%BAmy-jak-dzia%C5%82a-nowy-menad%C5%BCer-paczek/</guid>
+      <description>Cześć. W dzisiejszym wpisie sprawdzimy jak działa najnowsza wersja menadżera zależności composer w wersji 2.0.0-alpha1. Porównamy jak wygląda działanie, czas wykonywania zadania oraz zużycie pamięci RAM podczas operacji instalowania, aktualizowania oraz dodawania nowej biblioteki.
+Projekt, na którym będziemy testować menadżera zbudowany jest z wykorzystaniem Symfony 4.2 i wymaga 36 bibliotek – tyle pozycji wpisanych jest w pliku composer.json. Po uwzględnieniu zależności wszystkich bibliotek mamy 128 paczek.
+Szybsze pobieranie Najbardziej wyczekiwaną i zarazem najbardziej zauważalną zmianą w drugiej wersji composera jest zmieniony workflow instalowania, dodawania, aktualizacji czy usuwania paczek, co ma znaczący wpływ na wydajność.</description>
+    </item>
+    
+    <item>
+      <title>Docker Compose – Don’t repeat yourself</title>
+      <link>https://stawarczyk.pl/2020/06/docker-compose-dont-repeat-yourself/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2020/06/docker-compose-dont-repeat-yourself/</guid>
+      <description>Dzisiaj, krótki wpis na temat powtarzania treści w docker-compose.
+Czy wiesz, że zasadę DRY można zastosować również w pliku docker-compose? Nie jest to jednak mechanizm samego dockera a języka YAML. Mowa tutaj o funkcjach anchor oraz merge.
+Jak to wygląda w praktyce? Wyobraźmy sobie, że nasze środowisko lokalne nie jest unikalne dla każdego projektu, a po prostu mamy 1 plik docker-compose, który uruchamia nam serwer http, bazę danych i kilka wersji PHP.</description>
+    </item>
+    
+    <item>
+      <title>Docker for Mac – 3 sposoby na przyspieszenie działania</title>
+      <link>https://stawarczyk.pl/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzia%C5%82ania/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzia%C5%82ania/</guid>
+      <description>Jeśli również pracujesz na Macu i masz problem z wolno działającym Docker for Mac, to mam dla Ciebie kilka tricków, które przyspieszą działanie Twojego Dockera bez dodatkowych narzędzi.
+Ale na początek, jak wyglądają czasy jednego z projektów nad którym pracuje. Zobaczmy więc docker-compose. Możemy w nim zauważyć montowanie wolumenu do kontenera nginx i nadanie mu aliasu, który wykorzystujemy w kontenerze PHP.
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 version: &amp;#39;2&amp;#39; services: nginx: hostname: nginx build: context: docker/nginx ports: - 8080:80 volumes: &amp;amp;appvolumes - .</description>
+    </item>
+    
+    <item>
+      <title>Wzorzec potoków i filtrów (pipe &amp; filters)</title>
+      <link>https://stawarczyk.pl/2020/06/wzorzec-potok%C3%B3w-i-filtr%C3%B3w-pipe-filters/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2020/06/wzorzec-potok%C3%B3w-i-filtr%C3%B3w-pipe-filters/</guid>
+      <description>Cześć.
+W moim pierwszym wpisie, chciałbym Wam przestawić wzorzec architektoniczny pipe &amp;amp; filters. Jest to sposób na rozbicie dużego zadania na mniejsze części w bardzo przejrzysty sposób. Zaletami takiego rozwiązania jest reużywalność klas (filtrów), możliwość szybkiej zmiany kroków wykonywania danego algorytmu oraz zrównoleglenia procesu. Niewątpliwą zaletą jest również testowalność. Dzięki wyodrębnieniu poszczególnych modułów możemy, każdy z kroków możemy testować w izolacji, na przykład testami jednostkowymi.
+Jeśli się nie mylę, historia tego rozwiązania sięga pamięcią do 1973 roku, kiedy to jeden z pomysłów Douglasa McIlroya został zaimplementowany w systemach UNIX.</description>
+    </item>
+    
+  </channel>
+</rss>

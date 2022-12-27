@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wzorce architektoniczne on Blog stawarczyk.pl</title>
+    <link>https://stawarczyk.pl/categories/wzorce-architektoniczne/</link>
+    <description>Recent content in Wzorce architektoniczne on Blog stawarczyk.pl</description>
+    <image>
+      <url>https://stawarczyk.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://stawarczyk.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Tue, 07 Sep 2021 23:33:05 +0200</lastBuildDate><atom:link href="https://stawarczyk.pl/categories/wzorce-architektoniczne/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CQRS - to proste!</title>
+      <link>https://stawarczyk.pl/2021/09/cqrs-to-proste/</link>
+      <pubDate>Tue, 07 Sep 2021 23:33:05 +0200</pubDate>
+      
+      <guid>https://stawarczyk.pl/2021/09/cqrs-to-proste/</guid>
+      <description>CQRS jest prosty CQRS (Command Query Responsibility Segregation) to ewolucja CQS (ang. Command Query Separation ). CQS charakteryzuje się rozdzieleniem klasy na metody zapisujące oraz odczytujące. Metody zapisujące nazywamy Command, a odczytujące Query. Command zmieniają stan, zmieniają dane, ale nie zwracają żadnych danych. Query, w przeciwieństwie do metod zapisujących, odczytują dane bez ich modyfikacji. Ilekroć wywołamy metodą odczytu, zawsze otrzymamy takie same dane w odpowiedzi.
+Jak jest róznica między CQS a CQRS?</description>
+    </item>
+    
+  </channel>
+</rss>

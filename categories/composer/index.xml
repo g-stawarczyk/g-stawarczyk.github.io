@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>composer on Blog stawarczyk.pl</title>
+    <link>https://stawarczyk.pl/categories/composer/</link>
+    <description>Recent content in composer on Blog stawarczyk.pl</description>
+    <image>
+      <url>https://stawarczyk.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://stawarczyk.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://stawarczyk.pl/categories/composer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Composer 2.0 – sprawdźmy jak działa nowy menadżer paczek</title>
+      <link>https://stawarczyk.pl/2020/06/composer-2.0-sprawd%C5%BAmy-jak-dzia%C5%82a-nowy-menad%C5%BCer-paczek/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2020/06/composer-2.0-sprawd%C5%BAmy-jak-dzia%C5%82a-nowy-menad%C5%BCer-paczek/</guid>
+      <description>Cześć. W dzisiejszym wpisie sprawdzimy jak działa najnowsza wersja menadżera zależności composer w wersji 2.0.0-alpha1. Porównamy jak wygląda działanie, czas wykonywania zadania oraz zużycie pamięci RAM podczas operacji instalowania, aktualizowania oraz dodawania nowej biblioteki.
+Projekt, na którym będziemy testować menadżera zbudowany jest z wykorzystaniem Symfony 4.2 i wymaga 36 bibliotek – tyle pozycji wpisanych jest w pliku composer.json. Po uwzględnieniu zależności wszystkich bibliotek mamy 128 paczek.
+Szybsze pobieranie Najbardziej wyczekiwaną i zarazem najbardziej zauważalną zmianą w drugiej wersji composera jest zmieniony workflow instalowania, dodawania, aktualizacji czy usuwania paczek, co ma znaczący wpływ na wydajność.</description>
+    </item>
+    
+  </channel>
+</rss>

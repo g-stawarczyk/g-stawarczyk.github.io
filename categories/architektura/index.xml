@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>architektura on Blog stawarczyk.pl</title>
+    <link>https://stawarczyk.pl/categories/architektura/</link>
+    <description>Recent content in architektura on Blog stawarczyk.pl</description>
+    <image>
+      <url>https://stawarczyk.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://stawarczyk.pl/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stawarczyk.pl/categories/architektura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architektura Heksagonalna</title>
+      <link>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</guid>
+      <description>Cześć. W dzisiejszym artykule chciałbym poruszyć temat architektury heksagonalnej znanej również jako architektura Portów i Adapterów (ang. Ports &amp;amp; Adapters). Mam nadzieję, że uda mi się przedstawić Tobie w prosty sposób jak zaimplementować architekturę heksagonalną w Twoim projekcie. Ale zacznijmy od początku.
+Czym jest hexagonal architecture? Architektura heksagonalna to wzorzec architektoniczny, który pozwala na implementację logiki biznesowej, całkowicie odseparowanej od zależności. Intencją architektury heksagonalnej jest możliwość wykorzystania napisanej aplikacji przez dowolne wejście (np.</description>
+    </item>
+    
+    <item>
+      <title>Value Object – Podstawowy element Domain Driven Design</title>
+      <link>https://stawarczyk.pl/2020/09/value-object-podstawowy-element-domain-driven-design/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2020/09/value-object-podstawowy-element-domain-driven-design/</guid>
+      <description>Podczas programowania obiektowego bardzo często wykorzystujemy typy primitywne do przedstawienia jakiejś wartości. Przy tym bardzo często musimy zmierzyć się z przekazywaniem oraz modyfikacją tych wartości. Idąc dalej, chcemy mieć przecież poprawne dane, więc sprawdzamy ich poprawność dodając dodatkową logikę walidującą. A co w sytuacji, gdy daną wartość, która reprezentuje jakiś koncept, chcemy wykorzystać w więcej niż jednym miejscu? Duplikujemy logikę sprawdzania ich poprawności? Wybieramy specjalne miejsce aby utworzyć klasę walidacji, a może duplikujemy kod?</description>
+    </item>
+    
+  </channel>
+</rss>
