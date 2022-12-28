@@ -5,7 +5,7 @@ draft: false
 categories: ['Wzorce architektoniczne']
 tags: ['architektura', 'ddd', 'hexagon', 'hexagonal', 'porty i adaptery']
 cover:
-    image: "ports-and-adapters.png"
+    image: "images/ports-and-adapters.png"
     alt: Architektura Heksagonalna
 language: pl
 description: Architektura heksagonalna to wzorzec architektoniczny, który pozwala na implementację logiki biznesowej, odseparowanej od zależności.
