@@ -2,19 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://g-stawarczyk.github.io/en/</loc>
-    <lastmod>2021-09-07T23:33:05+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://g-stawarczyk.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://g-stawarczyk.github.io/en/"
-                />
-  </url><url>
     <loc>https://g-stawarczyk.github.io/en/categories/</loc>
     <lastmod>2021-09-07T23:33:05+02:00</lastmod>
     <xhtml:link
@@ -28,10 +15,29 @@
                 href="https://g-stawarczyk.github.io/en/categories/"
                 />
   </url><url>
+    <loc>https://g-stawarczyk.github.io/en/tags/cqrs/</loc>
+    <lastmod>2021-09-07T23:33:05+02:00</lastmod>
+  </url><url>
     <loc>https://g-stawarczyk.github.io/en/2021/09/cqrs-its-simple/</loc>
     <lastmod>2021-09-07T23:33:05+02:00</lastmod>
   </url><url>
     <loc>https://g-stawarczyk.github.io/en/categories/development/</loc>
+    <lastmod>2021-09-07T23:33:05+02:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/en/</loc>
+    <lastmod>2021-09-07T23:33:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://g-stawarczyk.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://g-stawarczyk.github.io/en/"
+                />
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/en/tags/php/</loc>
     <lastmod>2021-09-07T23:33:05+02:00</lastmod>
   </url><url>
     <loc>https://g-stawarczyk.github.io/en/posts/</loc>
@@ -48,6 +54,7 @@
                 />
   </url><url>
     <loc>https://g-stawarczyk.github.io/en/tags/</loc>
+    <lastmod>2021-09-07T23:33:05+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
@@ -57,6 +64,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://g-stawarczyk.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://g-stawarczyk.github.io/szukaj/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://g-stawarczyk.github.io/en/search/"
                 />
   </url>
 </urlset>

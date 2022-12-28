@@ -2,10 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://g-stawarczyk.github.io/categories/architektura/</loc>
+    <loc>https://g-stawarczyk.github.io/tags/architektura/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://g-stawarczyk.github.io/2021/01/architektura-heksagonalna/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/categories/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://g-stawarczyk.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://g-stawarczyk.github.io/categories/"
+                />
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/ddd/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://g-stawarczyk.github.io/</loc>
@@ -21,29 +37,13 @@
                 href="https://g-stawarczyk.github.io/"
                 />
   </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://g-stawarczyk.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://g-stawarczyk.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/ddd/</loc>
+    <loc>https://g-stawarczyk.github.io/tags/hexagon/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/hexagon/</loc>
+    <loc>https://g-stawarczyk.github.io/tags/hexagonal/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/hexagonal/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/porty-i-adaptery/</loc>
+    <loc>https://g-stawarczyk.github.io/tags/porty-i-adaptery/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://g-stawarczyk.github.io/posts/</loc>
@@ -59,67 +59,8 @@
                 href="https://g-stawarczyk.github.io/posts/"
                 />
   </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/doctrine/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/embeddable/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/2020/12/persystencja-value-object-w-php/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/value-object/</loc>
-    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/2020/09/value-object-podstawowy-element-domain-driven-design/</loc>
-    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/2020/07/ddd-domain-driven-design/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/domain-driven-design/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/ubiquitous-language/</loc>
-    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/composer/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/2020/06/composer-2.0-sprawd%C5%BAmy-jak-dzia%C5%82a-nowy-menad%C5%BCer-paczek/</loc>
-    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/anchor/</loc>
-    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/docker/</loc>
-    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/2020/06/docker-compose-dont-repeat-yourself/</loc>
-    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/docker-compose/</loc>
-    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/tipstricks/</loc>
-    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/docker-for-mac/</loc>
-    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzia%C5%82ania/</loc>
-    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/wzorce/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/categories/wzorzec-architektoniczny/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://g-stawarczyk.github.io/2020/06/wzorzec-potok%C3%B3w-i-filtr%C3%B3w-pipe-filters/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://g-stawarczyk.github.io/tags/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -129,6 +70,93 @@
                 rel="alternate"
                 hreflang="pl"
                 href="https://g-stawarczyk.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/categories/wzorce-architektoniczne/</loc>
+    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/categories/ddd/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/doctrine/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/embeddable/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/2020/12/persystencja-value-object-w-php/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/value-object/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/2020/09/value-object-podstawowy-element-domain-driven-design/</loc>
+    <lastmod>2020-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/2020/07/ddd-domain-driven-design/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/domain-driven-design/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/ubiquitous-language/</loc>
+    <lastmod>2020-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/composer/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/2020/06/composer-2.0-sprawd%C5%BAmy-jak-dzia%C5%82a-nowy-menad%C5%BCer-paczek/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/categories/narz%C4%99dzia/</loc>
+    <lastmod>2020-06-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/anchor/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/docker/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/categories/docker/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/2020/06/docker-compose-dont-repeat-yourself/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/docker-compose/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/categories/tips-tricks/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/tipstricks/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/docker-for-mac/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzia%C5%82ania/</loc>
+    <lastmod>2020-06-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/wzorce/</loc>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/tags/wzorzec-architektoniczny/</loc>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/2020/06/wzorzec-potok%C3%B3w-i-filtr%C3%B3w-pipe-filters/</loc>
+    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://g-stawarczyk.github.io/szukaj/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://g-stawarczyk.github.io/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://g-stawarczyk.github.io/szukaj/"
                 />
   </url>
 </urlset>

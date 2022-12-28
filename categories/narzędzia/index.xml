@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Narzędzia on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</title>
+    <link>https://g-stawarczyk.github.io/categories/narz%C4%99dzia/</link>
+    <description>Recent content in Narzędzia on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl_PL</language>
+    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://g-stawarczyk.github.io/categories/narz%C4%99dzia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Composer 2.0 – sprawdźmy jak działa nowy menadżer paczek</title>
+      <link>https://g-stawarczyk.github.io/2020/06/composer-2.0-sprawd%C5%BAmy-jak-dzia%C5%82a-nowy-menad%C5%BCer-paczek/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://g-stawarczyk.github.io/2020/06/composer-2.0-sprawd%C5%BAmy-jak-dzia%C5%82a-nowy-menad%C5%BCer-paczek/</guid>
+      <description>Composer 2.0 wprowadził równoległe instalowanie bibliotek. Sprawdźmy jak wydajnie działa nowa wersja menadżera w porównaniu do wersji 1.x.</description>
+    </item>
+    
+  </channel>
+</rss>

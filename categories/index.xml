@@ -1,126 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Blog stawarczyk.pl</title>
+    <title>Categories on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</title>
     <link>https://g-stawarczyk.github.io/categories/</link>
-    <description>Recent content in Categories on Blog stawarczyk.pl</description>
-    <image>
-      <url>https://g-stawarczyk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://g-stawarczyk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <description>Recent content in Categories on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-pl</language>
+    <language>pl_PL</language>
     <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://g-stawarczyk.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>architektura</title>
-      <link>https://g-stawarczyk.github.io/categories/architektura/</link>
+      <title>Wzorce architektoniczne</title>
+      <link>https://g-stawarczyk.github.io/categories/wzorce-architektoniczne/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/categories/architektura/</guid>
+      <guid>https://g-stawarczyk.github.io/categories/wzorce-architektoniczne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DDD</title>
       <link>https://g-stawarczyk.github.io/categories/ddd/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://g-stawarczyk.github.io/categories/ddd/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hexagon</title>
-      <link>https://g-stawarczyk.github.io/categories/hexagon/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/hexagon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hexagonal</title>
-      <link>https://g-stawarczyk.github.io/categories/hexagonal/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/hexagonal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>porty i adaptery</title>
-      <link>https://g-stawarczyk.github.io/categories/porty-i-adaptery/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/porty-i-adaptery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Doctrine</title>
-      <link>https://g-stawarczyk.github.io/categories/doctrine/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/doctrine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Embeddable</title>
-      <link>https://g-stawarczyk.github.io/categories/embeddable/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/embeddable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>value object</title>
-      <link>https://g-stawarczyk.github.io/categories/value-object/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/value-object/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>domain driven design</title>
-      <link>https://g-stawarczyk.github.io/categories/domain-driven-design/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/domain-driven-design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ubiquitous language</title>
-      <link>https://g-stawarczyk.github.io/categories/ubiquitous-language/</link>
-      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/ubiquitous-language/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>composer</title>
-      <link>https://g-stawarczyk.github.io/categories/composer/</link>
+      <title>Narzędzia</title>
+      <link>https://g-stawarczyk.github.io/categories/narz%C4%99dzia/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/categories/composer/</guid>
+      <guid>https://g-stawarczyk.github.io/categories/narz%C4%99dzia/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>anchor</title>
-      <link>https://g-stawarczyk.github.io/categories/anchor/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/anchor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docker</title>
+      <title>Docker</title>
       <link>https://g-stawarczyk.github.io/categories/docker/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
@@ -129,47 +44,11 @@
     </item>
     
     <item>
-      <title>docker-compose</title>
-      <link>https://g-stawarczyk.github.io/categories/docker-compose/</link>
+      <title>Tips &amp; tricks</title>
+      <link>https://g-stawarczyk.github.io/categories/tips-tricks/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/categories/docker-compose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tips&amp;tricks</title>
-      <link>https://g-stawarczyk.github.io/categories/tipstricks/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/tipstricks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>docker for mac</title>
-      <link>https://g-stawarczyk.github.io/categories/docker-for-mac/</link>
-      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/docker-for-mac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wzorce</title>
-      <link>https://g-stawarczyk.github.io/categories/wzorce/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/wzorce/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wzorzec architektoniczny</title>
-      <link>https://g-stawarczyk.github.io/categories/wzorzec-architektoniczny/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://g-stawarczyk.github.io/categories/wzorzec-architektoniczny/</guid>
+      <guid>https://g-stawarczyk.github.io/categories/tips-tricks/</guid>
       <description></description>
     </item>
     
