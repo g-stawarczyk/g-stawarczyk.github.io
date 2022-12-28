@@ -151,18 +151,18 @@ languages:
         - name: Tagi
           url: tags
           weight: 2
-  en:
-    contentDir: content/english
-    languageName: English
-    weight: 10
-    menu:
-      main:
-        - name: Search
-          url: search
-          weight: 1
-        - name: Categories
-          url: categories
-          weight: 1
-        - name: Tags
-          url: tags
-          weight: 2
+#  en:
+#    contentDir: content/english
+#    languageName: English
+#    weight: 10
+#    menu:
+#      main:
+#        - name: Search
+#          url: search
+#          weight: 1
+#        - name: Categories
+#          url: categories
+#          weight: 1
+#        - name: Tags
+#          url: tags
+#          weight: 2
