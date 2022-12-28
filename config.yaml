@@ -134,7 +134,7 @@ markup:
       unsafe: false
       xhtml: true
 permalinks:
-  posts: /:year/:month/:title/
+  posts: /:year/:month/:slug/
 languages:
   pl:
     contentDir: content/polish

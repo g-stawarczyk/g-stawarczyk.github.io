@@ -6,6 +6,7 @@ categories: ['Tips & tricks']
 tags: ['docker', 'docker for mac']
 language: pl
 description: Praca z Docker for Mac nie musi być wolna! Sprawdź 3 sprawdzone sposoby na przyspieszenie działania Docker for Mac.
+slug: docker-for-mac-3-sposoby-na-przyspieszenie-dzialania
 ---
 Jeśli również pracujesz na Macu i masz problem z wolno działającym Docker for Mac, to mam dla Ciebie kilka tricków, które przyspieszą działanie Twojego Dockera bez dodatkowych narzędzi.
 

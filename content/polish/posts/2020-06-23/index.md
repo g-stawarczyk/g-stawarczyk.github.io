@@ -6,6 +6,7 @@ categories: ['Narzędzia']
 tags: ['composer']
 language: pl
 description: Composer 2.0 wprowadził równoległe instalowanie bibliotek. Sprawdźmy jak wydajnie działa nowa wersja menadżera w porównaniu do wersji 1.x.
+slug: composer-2-0-sprawdzmy-jak-dziala-nowy-menadzer-paczek
 ---
 Cześć. W dzisiejszym wpisie sprawdzimy jak działa najnowsza wersja menadżera zależności **composer** w wersji **2.0.0-alpha1**. Porównamy jak wygląda działanie, czas wykonywania zadania oraz zużycie pamięci RAM podczas operacji instalowania, aktualizowania oraz dodawania nowej biblioteki.
 

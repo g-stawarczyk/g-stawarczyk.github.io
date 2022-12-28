@@ -5,6 +5,7 @@ draft: false
 categories: ['Wzorce architektoniczne']
 tags: ['wzorce', 'wzorzec architektoniczny']
 language: pl
+slug: wzorzec-potokow-i-filtrow-pipe-filters
 ---
 Cześć.
 
