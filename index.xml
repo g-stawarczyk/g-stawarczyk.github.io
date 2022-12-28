@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</title>
-    <link>https://g-stawarczyk.github.io/</link>
+    <link>https://stawarczyk.pl/</link>
     <description>Recent content on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl_PL</language>
-    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://g-stawarczyk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stawarczyk.pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Architektura Heksagonalna</title>
-      <link>https://g-stawarczyk.github.io/2021/01/architektura-heksagonalna/</link>
+      <link>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/2021/01/architektura-heksagonalna/</guid>
+      <guid>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</guid>
       <description>Architektura heksagonalna to wzorzec architektoniczny, który pozwala na implementację logiki biznesowej, odseparowanej od zależności.</description>
     </item>
     
     <item>
       <title>Persystencja Value Object w PHP</title>
-      <link>https://g-stawarczyk.github.io/2020/12/persystencja-value-object-w-php/</link>
+      <link>https://stawarczyk.pl/2020/12/persystencja-value-object-w-php/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/2020/12/persystencja-value-object-w-php/</guid>
+      <guid>https://stawarczyk.pl/2020/12/persystencja-value-object-w-php/</guid>
       <description>Dowiedz się jak w prosty spobób można zapisywać Value Object w bazie danych za pomocą Doctrine oraz natywnych zapytać SQL.</description>
     </item>
     
     <item>
       <title>Value Object – Podstawowy element Domain Driven Design</title>
-      <link>https://g-stawarczyk.github.io/2020/09/value-object-podstawowy-element-domain-driven-design/</link>
+      <link>https://stawarczyk.pl/2020/09/value-object-podstawowy-element-domain-driven-design/</link>
       <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/2020/09/value-object-podstawowy-element-domain-driven-design/</guid>
+      <guid>https://stawarczyk.pl/2020/09/value-object-podstawowy-element-domain-driven-design/</guid>
       <description>Value Object to najważniejszy element Domain Drive Design. Dowiedz się jakie cechy ma poprawny Value Object i jak stosować go w praktyce.</description>
     </item>
     
     <item>
       <title>DDD – Domain Driven Design</title>
-      <link>https://g-stawarczyk.github.io/2020/07/ddd-domain-driven-design/</link>
+      <link>https://stawarczyk.pl/2020/07/ddd-domain-driven-design/</link>
       <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/2020/07/ddd-domain-driven-design/</guid>
+      <guid>https://stawarczyk.pl/2020/07/ddd-domain-driven-design/</guid>
       <description>Domain Driven Design jest to koncept służący do projektowania systemów, który polega na tym, aby oprogramowanie jak najbardziej odzwierciedlało rzeczywisty system lub proces. Kod, który napiszemy, powinien być odzwierciedleniem biznesu, a wszechobecny język (ang. ubiquitous language) użyty w projekcie powinien być spójny i zrozumiały z „biznesem”.</description>
     </item>
     
     <item>
       <title>Composer 2.0 – sprawdźmy jak działa nowy menadżer paczek</title>
-      <link>https://g-stawarczyk.github.io/2020/06/composer-2.0-sprawd%C5%BAmy-jak-dzia%C5%82a-nowy-menad%C5%BCer-paczek/</link>
+      <link>https://stawarczyk.pl/2020/06/composer-2-0-sprawdzmy-jak-dziala-nowy-menadzer-paczek/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/2020/06/composer-2.0-sprawd%C5%BAmy-jak-dzia%C5%82a-nowy-menad%C5%BCer-paczek/</guid>
+      <guid>https://stawarczyk.pl/2020/06/composer-2-0-sprawdzmy-jak-dziala-nowy-menadzer-paczek/</guid>
       <description>Composer 2.0 wprowadził równoległe instalowanie bibliotek. Sprawdźmy jak wydajnie działa nowa wersja menadżera w porównaniu do wersji 1.x.</description>
     </item>
     
     <item>
       <title>Docker Compose – Don’t repeat yourself</title>
-      <link>https://g-stawarczyk.github.io/2020/06/docker-compose-dont-repeat-yourself/</link>
+      <link>https://stawarczyk.pl/2020/06/docker-compose-dont-repeat-yourself/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/2020/06/docker-compose-dont-repeat-yourself/</guid>
+      <guid>https://stawarczyk.pl/2020/06/docker-compose-dont-repeat-yourself/</guid>
       <description>Dzisiaj, krótki wpis na temat powtarzania treści w docker-compose.
 Czy wiesz, że zasadę DRY można zastosować również w pliku docker-compose? Nie jest to jednak mechanizm samego dockera a języka YAML. Mowa tutaj o funkcjach anchor oraz merge.
 Jak to wygląda w praktyce? Wyobraźmy sobie, że nasze środowisko lokalne nie jest unikalne dla każdego projektu, a po prostu mamy 1 plik docker-compose, który uruchamia nam serwer http, bazę danych i kilka wersji PHP.</description>
@@ -65,22 +65,31 @@ Jak to wygląda w praktyce? Wyobraźmy sobie, że nasze środowisko lokalne nie 
     
     <item>
       <title>Docker for Mac – 3 sposoby na przyspieszenie działania</title>
-      <link>https://g-stawarczyk.github.io/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzia%C5%82ania/</link>
+      <link>https://stawarczyk.pl/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzialania/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzia%C5%82ania/</guid>
+      <guid>https://stawarczyk.pl/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzialania/</guid>
       <description>Praca z Docker for Mac nie musi być wolna! Sprawdź 3 sprawdzone sposoby na przyspieszenie działania Docker for Mac.</description>
     </item>
     
     <item>
       <title>Wzorzec potoków i filtrów (pipe &amp; filters)</title>
-      <link>https://g-stawarczyk.github.io/2020/06/wzorzec-potok%C3%B3w-i-filtr%C3%B3w-pipe-filters/</link>
+      <link>https://stawarczyk.pl/2020/06/wzorzec-potokow-i-filtrow-pipe-filters/</link>
       <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/2020/06/wzorzec-potok%C3%B3w-i-filtr%C3%B3w-pipe-filters/</guid>
+      <guid>https://stawarczyk.pl/2020/06/wzorzec-potokow-i-filtrow-pipe-filters/</guid>
       <description>Cześć.
 W moim pierwszym wpisie, chciałbym Wam przestawić wzorzec architektoniczny pipe &amp;amp; filters. Jest to sposób na rozbicie dużego zadania na mniejsze części w bardzo przejrzysty sposób. Zaletami takiego rozwiązania jest reużywalność klas (filtrów), możliwość szybkiej zmiany kroków wykonywania danego algorytmu oraz zrównoleglenia procesu. Niewątpliwą zaletą jest również testowalność. Dzięki wyodrębnieniu poszczególnych modułów możemy, każdy z kroków możemy testować w izolacji, na przykład testami jednostkowymi.
 Jeśli się nie mylę, historia tego rozwiązania sięga pamięcią do 1973 roku, kiedy to jeden z pomysłów Douglasa McIlroya został zaimplementowany w systemach UNIX.</description>
+    </item>
+    
+    <item>
+      <title>Polityka Prywatności</title>
+      <link>https://stawarczyk.pl/polityka-prywatnosci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/polityka-prywatnosci/</guid>
+      <description>Polityka prywatności opisuje zasady przetwarzania przez nas informacji na Twój temat, w tym danych osobowych oraz ciasteczek, czyli tzw. cookies. 1. Informacje ogólne Niniejsza polityka dotyczy Serwisu www, funkcjonującego pod adresem url: https://stawarczyk.pl Operatorem serwisu oraz Administratorem danych osobowych jest: Grzegorz Stawarczyk, ul. Milczańska 22/78, 61-131 Poznań Adres kontaktowy poczty elektronicznej operatora: grzegorz@stawarczyk.pl Operator jest Administratorem Twoich danych osobowych w odniesieniu do danych podanych dobrowolnie w Serwisie. Serwis wykorzystuje dane osobowe w następujących celach: Prowadzenie newslettera Prowadzenie systemu komentarzy Serwis realizuje funkcje pozyskiwania informacji o użytkownikach i ich zachowaniu w następujący sposób: Poprzez dobrowolnie wprowadzone w formularzach dane, które zostają wprowadzone do systemów Operatora.</description>
     </item>
     
     

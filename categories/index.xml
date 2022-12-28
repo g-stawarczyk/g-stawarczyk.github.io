@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</title>
-    <link>https://g-stawarczyk.github.io/categories/</link>
+    <link>https://stawarczyk.pl/categories/</link>
     <description>Recent content in Categories on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl_PL</language>
-    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://g-stawarczyk.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stawarczyk.pl/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wzorce architektoniczne</title>
-      <link>https://g-stawarczyk.github.io/categories/wzorce-architektoniczne/</link>
+      <link>https://stawarczyk.pl/categories/wzorce-architektoniczne/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/categories/wzorce-architektoniczne/</guid>
+      <guid>https://stawarczyk.pl/categories/wzorce-architektoniczne/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DDD</title>
-      <link>https://g-stawarczyk.github.io/categories/ddd/</link>
+      <link>https://stawarczyk.pl/categories/ddd/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/categories/ddd/</guid>
+      <guid>https://stawarczyk.pl/categories/ddd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Narzędzia</title>
-      <link>https://g-stawarczyk.github.io/categories/narz%C4%99dzia/</link>
+      <link>https://stawarczyk.pl/categories/narz%C4%99dzia/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/categories/narz%C4%99dzia/</guid>
+      <guid>https://stawarczyk.pl/categories/narz%C4%99dzia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://g-stawarczyk.github.io/categories/docker/</link>
+      <link>https://stawarczyk.pl/categories/docker/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/categories/docker/</guid>
+      <guid>https://stawarczyk.pl/categories/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips &amp; tricks</title>
-      <link>https://g-stawarczyk.github.io/categories/tips-tricks/</link>
+      <link>https://stawarczyk.pl/categories/tips-tricks/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/categories/tips-tricks/</guid>
+      <guid>https://stawarczyk.pl/categories/tips-tricks/</guid>
       <description></description>
     </item>
     

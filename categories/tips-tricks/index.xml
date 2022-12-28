@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tips &amp; tricks on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</title>
-    <link>https://g-stawarczyk.github.io/categories/tips-tricks/</link>
+    <link>https://stawarczyk.pl/categories/tips-tricks/</link>
     <description>Recent content in Tips &amp; tricks on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl_PL</language>
-    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://g-stawarczyk.github.io/categories/tips-tricks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://stawarczyk.pl/categories/tips-tricks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker Compose – Don’t repeat yourself</title>
-      <link>https://g-stawarczyk.github.io/2020/06/docker-compose-dont-repeat-yourself/</link>
+      <link>https://stawarczyk.pl/2020/06/docker-compose-dont-repeat-yourself/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/2020/06/docker-compose-dont-repeat-yourself/</guid>
+      <guid>https://stawarczyk.pl/2020/06/docker-compose-dont-repeat-yourself/</guid>
       <description>Dzisiaj, krótki wpis na temat powtarzania treści w docker-compose.
 Czy wiesz, że zasadę DRY można zastosować również w pliku docker-compose? Nie jest to jednak mechanizm samego dockera a języka YAML. Mowa tutaj o funkcjach anchor oraz merge.
 Jak to wygląda w praktyce? Wyobraźmy sobie, że nasze środowisko lokalne nie jest unikalne dla każdego projektu, a po prostu mamy 1 plik docker-compose, który uruchamia nam serwer http, bazę danych i kilka wersji PHP.</description>
@@ -20,10 +20,10 @@ Jak to wygląda w praktyce? Wyobraźmy sobie, że nasze środowisko lokalne nie 
     
     <item>
       <title>Docker for Mac – 3 sposoby na przyspieszenie działania</title>
-      <link>https://g-stawarczyk.github.io/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzia%C5%82ania/</link>
+      <link>https://stawarczyk.pl/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzialania/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://g-stawarczyk.github.io/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzia%C5%82ania/</guid>
+      <guid>https://stawarczyk.pl/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzialania/</guid>
       <description>Praca z Docker for Mac nie musi być wolna! Sprawdź 3 sprawdzone sposoby na przyspieszenie działania Docker for Mac.</description>
     </item>
     
