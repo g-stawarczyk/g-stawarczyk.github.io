@@ -2,10 +2,13 @@
 title: "Architektura Heksagonalna"
 date: 2021-01-02
 draft: false
-categories: ['architektura', 'ddd', 'hexagon', 'hexagonal', 'porty i adaptery']
+categories: ['Wzorce architektoniczne']
+tags: ['architektura', 'ddd', 'hexagon', 'hexagonal', 'porty i adaptery']
 cover:
-    image: "images/blog/ports-and-adapters.png"
+    image: "ports-and-adapters.png"
+    alt: Architektura Heksagonalna
 language: pl
+description: Architektura heksagonalna to wzorzec architektoniczny, który pozwala na implementację logiki biznesowej, odseparowanej od zależności.
 ---
 Cześć. W dzisiejszym artykule chciałbym poruszyć temat **architektury heksagonalnej** znanej również jako architektura **Portów i Adapterów** (ang. Ports & Adapters). Mam nadzieję, że uda mi się przedstawić Tobie w prosty sposób jak zaimplementować architekturę heksagonalną w Twoim projekcie. Ale zacznijmy od początku.
 

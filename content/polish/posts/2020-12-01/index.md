@@ -2,8 +2,10 @@
 title: "Persystencja Value Object w PHP"
 date: 2020-12-01
 draft: false
-categories: ['Doctrine', 'Embeddable', 'value object']
+categories: ['DDD']
+tags: ['Doctrine', 'Embeddable', 'value object']
 language: pl
+description: Dowiedz się jak w prosty spobób można zapisywać Value Object w bazie danych za pomocą Doctrine oraz natywnych zapytać SQL.
 ---
 Cześć. W tym artykule skupimy się na zapisywaniu Value Object’ów w bazie danych. Jeżeli nie wiesz czym jest Obiekt Wartości, to zapraszam Cię do mojego poprzedniego artykułu: [Value Object – Podstawowy element Domain Driven Design]({{< ref "../2020-09-26" >}} "Value Object – Podstawowy element Domain Driven Design"). Tymczasem przejdźmy do meritum.
 

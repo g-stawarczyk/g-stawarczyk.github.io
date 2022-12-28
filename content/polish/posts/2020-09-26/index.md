@@ -2,8 +2,10 @@
 title: "Value Object – Podstawowy element Domain Driven Design"
 date: 2020-09-26
 draft: false
-categories: ['architektura', 'DDD', 'value object', 'Doctrine']
+categories: ['DDD']
+tags: ['architektura', 'DDD', 'value object', 'Doctrine']
 language: pl
+description: Value Object to najważniejszy element Domain Drive Design. Dowiedz się jakie cechy ma poprawny Value Object i jak stosować go w praktyce.
 ---
 Podczas programowania obiektowego bardzo często wykorzystujemy typy primitywne do przedstawienia jakiejś wartości. Przy tym bardzo często musimy zmierzyć się z przekazywaniem oraz modyfikacją tych wartości. Idąc dalej, chcemy mieć przecież poprawne dane, więc sprawdzamy ich poprawność dodając dodatkową logikę walidującą. A co w sytuacji, gdy daną wartość, która reprezentuje jakiś koncept, chcemy wykorzystać w więcej niż jednym miejscu? Duplikujemy logikę sprawdzania ich poprawności? Wybieramy specjalne miejsce aby utworzyć klasę walidacji, a może duplikujemy kod? Ciężki temat, szczególnie w późniejszym utrzymaniu, ale tutaj z pomocą przychodzi nam **Value Object (obiekt wartości, wartość)**.
 

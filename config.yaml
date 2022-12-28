@@ -1,6 +1,6 @@
 baseURL: 'https://g-stawarczyk.github.io'
-languageCode: pl-pl
-title: Blog stawarczyk.pl
+languageCode: pl_PL
+title: Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym
 theme: PaperMod
 defaultContentLanguage: pl
 paginate: 10
@@ -14,29 +14,20 @@ taxonomies:
 minify:
   disableXML: true
   minifyOutput: true
-menu:
-  main:
-    - name: About
-      url: about
-      weight: 1
-    - name: Elemetns
-      url: elements
-      weight: 2
-    - name: Terms & Conditions
-      url: terms-conditions
-      weight: 3
-    - name: Contact
-      url: contact
-      weight: 4
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
 params:
   displayFullLangName: false
-  env: develop # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [ Blog, Portfolio, PaperMod ]
-  author: Me
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Blog stawarczyk.pl
+  description: "Blog poświęcony zagadnieniom programistycznym"
+  keywords: [ Blog ]
+  author: Grzegorz Stawarczyk
   # author: ["Me", "You"] # multiple authors
-  images: [ "<link or path of image for opengraph, twitter-cards>" ]
+#  images: [ "<link or path of image for opengraph, twitter-cards>" ]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -54,28 +45,28 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "kFJxTwwjJ6M960WTCNFl0Vy8dqYHTSTr2tME8-nMFSs"
+#    bing:
+#      SiteVerificationTag: "XYZabc"
+#    yandex:
+#      SiteVerificationTag: "XYZabc"
 
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "favicon.png"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "safari-pinned-tab.svg"
 
   label:
-    text: "Home"
+    text: "Blog stawarczyk.pl"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -96,8 +87,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Grzegorz Stawarczyk"
+    Content: "Blog poświęcony zagadnieniom programistycznym"
 
   socialIcons:
     - name: twitter
@@ -106,16 +97,18 @@ params:
       url: "https://www.linkedin.com/in/gstawarczyk/"
     - name: github
       url: "https://github.com/g-stawarczyk/"
+    - name: instagram
+      url: "https://www.instagram.com/gstawarczyk/"
 
   cover:
     hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+#  editPost:
+#    URL: "https://github.com/<path_to_repo>/content"
+#    Text: "Suggest Changes" # edit text
+#    appendFilePath: false # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -146,8 +139,30 @@ languages:
   pl:
     contentDir: content/polish
     languageName: Polish
-    weight: 10
+    weight: 1
+    menu:
+      main:
+        - name: Szukaj
+          url: szukaj
+          weight: 3
+        - name: Kategorie
+          url: categories
+          weight: 1
+        - name: Tagi
+          url: tags
+          weight: 2
   en:
     contentDir: content/english
     languageName: English
     weight: 10
+    menu:
+      main:
+        - name: Search
+          url: search
+          weight: 1
+        - name: Categories
+          url: categories
+          weight: 1
+        - name: Tags
+          url: tags
+          weight: 2

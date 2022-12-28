@@ -2,7 +2,8 @@
 title: "Wzorzec potoków i filtrów (pipe & filters)"
 date: 2020-06-03
 draft: false
-categories: ['wzorce', 'wzorzec architektoniczny']
+categories: ['Wzorce architektoniczne']
+tags: ['wzorce', 'wzorzec architektoniczny']
 language: pl
 ---
 Cześć.

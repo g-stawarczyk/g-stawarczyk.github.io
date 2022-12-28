@@ -2,8 +2,10 @@
 title: "DDD – Domain Driven Design"
 date: 2020-07-28
 draft: false
-categories: ['domain driven design', 'DDD', 'Ubiquitous language']
+categories: ['DDD']
+tags: ['domain driven design', 'DDD', 'Ubiquitous language']
 language: pl
+description: Domain Driven Design jest to koncept służący do projektowania systemów, który polega na tym, aby oprogramowanie jak najbardziej odzwierciedlało rzeczywisty system lub proces. Kod, który napiszemy, powinien być odzwierciedleniem biznesu, a wszechobecny język (ang. ubiquitous language) użyty w projekcie powinien być spójny i zrozumiały z „biznesem”.
 ---
 Cześć. Jeżeli tutaj trafiłeś, to znaczy, że szukasz informacji na temat DDD – Domain Driven Design. Chciałbym Cię zaprosić do serii artykułów poświęconych metodologii DDD. Postaram się Tobie w zrozumiały sposób przybliżyć czym jest DDD oraz kiedy warto stosować to podejście.
 

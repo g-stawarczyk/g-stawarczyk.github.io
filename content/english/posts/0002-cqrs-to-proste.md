@@ -3,6 +3,7 @@ title: "CQRS - it's simple!"
 date: 2021-09-07T23:33:05+02:00
 draft: false
 categories: ['Development']
+tags: ['CQRS', 'PHP']
 image_webp: "images/blog/blog-02.jpg"
 cover:
     image: "images/blog/blog-02.jpg"
