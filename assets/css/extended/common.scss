@@ -1,0 +1,19 @@
+$hint-colors: (
+        info: #6bf,
+        warning: #fd6,
+        danger: #f66,
+        php: #474A8A,
+) !default;
+
+.book-hint {
+    padding: .5rem 1rem .5rem .75rem !important;
+    border-inline-start: .25rem solid var(--gray-200);
+    border-radius: .25rem;
+
+    @each $name, $color in $hint-colors {
+        &.#{$name} {
+            border-color: $color;
+            background-color: rgba($color, 0.1);
+        }
+    }
+}
