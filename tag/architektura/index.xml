@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>architektura on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</title>
+    <link>https://stawarczyk.pl/tag/architektura/</link>
+    <description>Recent content in architektura on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl_PL</language>
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stawarczyk.pl/tag/architektura/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Architektura Heksagonalna</title>
+      <link>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</guid>
+      <description>Architektura heksagonalna to wzorzec architektoniczny, który pozwala na implementację logiki biznesowej, odseparowanej od zależności.</description>
+    </item>
+    
+    <item>
+      <title>Value Object – Podstawowy element Domain Driven Design</title>
+      <link>https://stawarczyk.pl/2020/09/value-object-podstawowy-element-domain-driven-design/</link>
+      <pubDate>Sat, 26 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2020/09/value-object-podstawowy-element-domain-driven-design/</guid>
+      <description>Value Object to najważniejszy element Domain Drive Design. Dowiedz się jakie cechy ma poprawny Value Object i jak stosować go w praktyce.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://stawarczyk.pl/tags/architektura/</loc>
+    <loc>https://stawarczyk.pl/tag/architektura/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stawarczyk.pl/2021/01/architektura-heksagonalna/</loc>
@@ -11,25 +11,25 @@
     <loc>https://stawarczyk.pl/categories/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/ddd/</loc>
+    <loc>https://stawarczyk.pl/tag/ddd/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stawarczyk.pl/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/hexagon/</loc>
+    <loc>https://stawarczyk.pl/tag/hexagon/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/hexagonal/</loc>
+    <loc>https://stawarczyk.pl/tag/hexagonal/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/porty-i-adaptery/</loc>
+    <loc>https://stawarczyk.pl/tag/porty-i-adaptery/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stawarczyk.pl/posts/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/</loc>
+    <loc>https://stawarczyk.pl/tag/</loc>
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stawarczyk.pl/categories/wzorce-architektoniczne/</loc>
@@ -38,16 +38,16 @@
     <loc>https://stawarczyk.pl/categories/ddd/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/doctrine/</loc>
+    <loc>https://stawarczyk.pl/tag/doctrine/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/embeddable/</loc>
+    <loc>https://stawarczyk.pl/tag/embeddable/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stawarczyk.pl/2020/12/persystencja-value-object-w-php/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/value-object/</loc>
+    <loc>https://stawarczyk.pl/tag/value-object/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stawarczyk.pl/2020/09/value-object-podstawowy-element-domain-driven-design/</loc>
@@ -56,13 +56,13 @@
     <loc>https://stawarczyk.pl/2020/07/ddd-domain-driven-design/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/domain-driven-design/</loc>
+    <loc>https://stawarczyk.pl/tag/domain-driven-design/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/ubiquitous-language/</loc>
+    <loc>https://stawarczyk.pl/tag/ubiquitous-language/</loc>
     <lastmod>2020-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/composer/</loc>
+    <loc>https://stawarczyk.pl/tag/composer/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stawarczyk.pl/2020/06/composer-2-0-sprawdzmy-jak-dziala-nowy-menadzer-paczek/</loc>
@@ -71,10 +71,10 @@
     <loc>https://stawarczyk.pl/categories/narz%C4%99dzia/</loc>
     <lastmod>2020-06-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/anchor/</loc>
+    <loc>https://stawarczyk.pl/tag/anchor/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/docker/</loc>
+    <loc>https://stawarczyk.pl/tag/docker/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stawarczyk.pl/categories/docker/</loc>
@@ -83,25 +83,25 @@
     <loc>https://stawarczyk.pl/2020/06/docker-compose-dont-repeat-yourself/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/docker-compose/</loc>
+    <loc>https://stawarczyk.pl/tag/docker-compose/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stawarczyk.pl/categories/tips-tricks/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/tipstricks/</loc>
+    <loc>https://stawarczyk.pl/tag/tipstricks/</loc>
     <lastmod>2020-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/docker-for-mac/</loc>
+    <loc>https://stawarczyk.pl/tag/docker-for-mac/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stawarczyk.pl/2020/06/docker-for-mac-3-sposoby-na-przyspieszenie-dzialania/</loc>
     <lastmod>2020-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/wzorce/</loc>
+    <loc>https://stawarczyk.pl/tag/wzorce/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://stawarczyk.pl/tags/wzorzec-architektoniczny/</loc>
+    <loc>https://stawarczyk.pl/tag/wzorzec-architektoniczny/</loc>
     <lastmod>2020-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://stawarczyk.pl/2020/06/wzorzec-potokow-i-filtrow-pipe-filters/</loc>
