@@ -3,7 +3,7 @@ title: "CQRS - to proste!"
 date: 2021-09-07T23:33:05+02:00
 draft: true
 categories: ['Wzorce architektoniczne']
-tags: ['Wzorce architektoniczne', 'PHP', 'CQRS']
+tag: ['Wzorce architektoniczne', 'PHP', 'CQRS']
 cover:
     image: "images/blog/blog-02.jpg"
 language: pl

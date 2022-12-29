@@ -3,7 +3,7 @@ title: "Uważaj na swój Cache"
 date: 2022-07-20T23:59:37+02:00
 draft: true
 categories: ['Narzędzia', 'PHP']
-tags: ['Cache', 'PHP']
+tag: ['Cache', 'PHP']
 #cover:
 #    image: "images/blog/blog-02.jpg"
 language: pl
