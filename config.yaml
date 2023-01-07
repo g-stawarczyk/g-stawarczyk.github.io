@@ -10,7 +10,7 @@ buildFuture: true
 buildExpired: true
 taxonomies:
   category: categories
-  tag: tag
+  tag: tags
 minify:
   disableXML: true
   minifyOutput: true
@@ -83,7 +83,7 @@ params:
       - name: Posts
         url: posts
       - name: Tags
-        url: tag
+        url: tags
 
   # home-info mode
   homeInfoParams:
@@ -149,7 +149,7 @@ languages:
           url: categories
           weight: 1
         - name: Tagi
-          url: tag
+          url: tags
           weight: 2
 #  en:
 #    contentDir: content/english
@@ -164,5 +164,5 @@ languages:
 #          url: categories
 #          weight: 1
 #        - name: Tags
-#          url: tag
+#          url: tags
 #          weight: 2

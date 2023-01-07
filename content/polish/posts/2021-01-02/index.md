@@ -3,7 +3,7 @@ title: "Architektura Heksagonalna"
 date: 2021-01-02
 draft: false
 categories: ['Wzorce architektoniczne']
-tag: ['architektura', 'ddd', 'hexagon', 'hexagonal', 'porty i adaptery']
+tags: ['architektura', 'ddd', 'hexagon', 'hexagonal', 'porty i adaptery']
 cover:
     image: "images/ports-and-adapters.png"
     alt: Architektura Heksagonalna

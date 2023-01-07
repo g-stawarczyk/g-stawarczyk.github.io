@@ -3,7 +3,7 @@ title: "Value Object – Podstawowy element Domain Driven Design"
 date: 2020-09-26
 draft: false
 categories: ['DDD']
-tag: ['architektura', 'DDD', 'value object', 'Doctrine']
+tags: ['architektura', 'DDD', 'value object', 'Doctrine']
 language: pl
 description: Value Object to najważniejszy element Domain Drive Design. Dowiedz się jakie cechy ma poprawny Value Object i jak stosować go w praktyce.
 ---

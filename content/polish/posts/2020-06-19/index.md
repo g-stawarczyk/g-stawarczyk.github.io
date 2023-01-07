@@ -3,7 +3,7 @@ title: "Docker Compose – Don’t repeat yourself"
 date: 2020-06-19
 draft: false
 categories: ['Docker', 'Tips & tricks']
-tag: ['docker-compose', 'anchor', 'docker', 'tips&tricks']
+tags: ['docker-compose', 'anchor', 'docker', 'tips&tricks']
 language: pl
 ---
 Dzisiaj, krótki wpis na temat powtarzania treści w docker-compose.

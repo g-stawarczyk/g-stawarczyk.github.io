@@ -3,7 +3,7 @@ title: "Composer 2.0 – sprawdźmy jak działa nowy menadżer paczek"
 date: 2020-06-23
 draft: false
 categories: ['Narzędzia']
-tag: ['composer']
+tags: ['composer']
 language: pl
 description: Composer 2.0 wprowadził równoległe instalowanie bibliotek. Sprawdźmy jak wydajnie działa nowa wersja menadżera w porównaniu do wersji 1.x.
 slug: composer-2-0-sprawdzmy-jak-dziala-nowy-menadzer-paczek
