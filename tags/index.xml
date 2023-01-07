@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</title>
+    <link>https://stawarczyk.pl/tags/</link>
+    <description>Recent content in Tags on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl_PL</language>
+    <lastBuildDate>Sat, 02 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://stawarczyk.pl/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>architektura</title>
+      <link>https://stawarczyk.pl/tags/architektura/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/architektura/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DDD</title>
+      <link>https://stawarczyk.pl/tags/ddd/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/ddd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hexagon</title>
+      <link>https://stawarczyk.pl/tags/hexagon/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/hexagon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hexagonal</title>
+      <link>https://stawarczyk.pl/tags/hexagonal/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/hexagonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>porty i adaptery</title>
+      <link>https://stawarczyk.pl/tags/porty-i-adaptery/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/porty-i-adaptery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doctrine</title>
+      <link>https://stawarczyk.pl/tags/doctrine/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/doctrine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embeddable</title>
+      <link>https://stawarczyk.pl/tags/embeddable/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/embeddable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>value object</title>
+      <link>https://stawarczyk.pl/tags/value-object/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/value-object/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>domain driven design</title>
+      <link>https://stawarczyk.pl/tags/domain-driven-design/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/domain-driven-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubiquitous language</title>
+      <link>https://stawarczyk.pl/tags/ubiquitous-language/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/ubiquitous-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>composer</title>
+      <link>https://stawarczyk.pl/tags/composer/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/composer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anchor</title>
+      <link>https://stawarczyk.pl/tags/anchor/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/anchor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://stawarczyk.pl/tags/docker/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker-compose</title>
+      <link>https://stawarczyk.pl/tags/docker-compose/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/docker-compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tips&amp;tricks</title>
+      <link>https://stawarczyk.pl/tags/tipstricks/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/tipstricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker for mac</title>
+      <link>https://stawarczyk.pl/tags/docker-for-mac/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/docker-for-mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wzorce</title>
+      <link>https://stawarczyk.pl/tags/wzorce/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/wzorce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wzorzec architektoniczny</title>
+      <link>https://stawarczyk.pl/tags/wzorzec-architektoniczny/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/tags/wzorzec-architektoniczny/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

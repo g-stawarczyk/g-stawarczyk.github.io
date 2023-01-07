@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>wzorzec architektoniczny on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</title>
+    <link>https://stawarczyk.pl/tags/wzorzec-architektoniczny/</link>
+    <description>Recent content in wzorzec architektoniczny on Grzegorz Stawarczyk - Blog poświęcony zagadnieniom programistycznym</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl_PL</language>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://stawarczyk.pl/tags/wzorzec-architektoniczny/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wzorzec potoków i filtrów (pipe &amp; filters)</title>
+      <link>https://stawarczyk.pl/2020/06/wzorzec-potokow-i-filtrow-pipe-filters/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://stawarczyk.pl/2020/06/wzorzec-potokow-i-filtrow-pipe-filters/</guid>
+      <description>Cześć.
+W moim pierwszym wpisie, chciałbym Wam przestawić wzorzec architektoniczny pipe &amp;amp; filters. Jest to sposób na rozbicie dużego zadania na mniejsze części w bardzo przejrzysty sposób. Zaletami takiego rozwiązania jest reużywalność klas (filtrów), możliwość szybkiej zmiany kroków wykonywania danego algorytmu oraz zrównoleglenia procesu. Niewątpliwą zaletą jest również testowalność. Dzięki wyodrębnieniu poszczególnych modułów możemy, każdy z kroków możemy testować w izolacji, na przykład testami jednostkowymi.
+Jeśli się nie mylę, historia tego rozwiązania sięga pamięcią do 1973 roku, kiedy to jeden z pomysłów Douglasa McIlroya został zaimplementowany w systemach UNIX.</description>
+    </item>
+    
+  </channel>
+</rss>
